@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 **Pizza Sales Analysis** is a SQL-based data analytics project designed to extract meaningful insights
-from the sales data of a fictional pizza restaurant — **Pizza Resto**.  
+from the sales data of a fictional pizza restaurant — Pizza Resto.  
 Using MySQL, this project tackles complex joins, time-series aggregations and query optimizations
  to answer key business questions about performance, trends, and revenue.
 
@@ -11,7 +11,7 @@ Using MySQL, this project tackles complex joins, time-series aggregations and qu
 
 ## 👨‍💻 About Me
 
-Hi, I'm ** Hemant Kumar ** — a data enthusiast and aspiring data analyst.  
+Hi, I'm Hemant Kumar — a data enthusiast and aspiring data analyst.  
 This project helped me apply real-world data modeling techniques, write optimized SQL queries, 
 and interpret data for actionable business insights.
 
@@ -89,7 +89,7 @@ These datasets support foreign key relationships and are ideal for SQL JOIN oper
 
 ## 📬 Contact
 
-** Hemant Kumar **  
+Hemant Kumar  
 📧 Email: hemantba82@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/hemant-kumar-a10839312/ 
 
